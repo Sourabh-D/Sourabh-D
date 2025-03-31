@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sourabh-D
 - 👀 I’m interested in Data Science and Business Analytics.
-- 🌱 I’m currently learning Data Science and Business Analytics.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 🌱 I’m currently working at NielsenIQ
 - 📫 How to reach me is simply email me at deshmukhsourabh958@gmail.com
 
 <!---
